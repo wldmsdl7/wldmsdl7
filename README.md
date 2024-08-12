@@ -1,6 +1,7 @@
 ## 성장하고 있는 아기 개발자 .. 🍼👶🏻💻 .. 임미다 💗
 <br>
 
+
 ### 📝 STUDY-ing ✨ 📚
 <p>
     <img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
@@ -13,13 +14,16 @@
 
 ###  👉🏻 CONTACT 📱 📩 
 <a href="https://velog.io/@wldmsdl7/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" style = "height : 40"/>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>        
 <a href="https://www.instagram.com/nununuejil/">
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" style="height : 40; margin-left : 20px; margin-right : 20px;"/>
+    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </a>
 <a href = "mailto:wldmsdl5835@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" style = "height : 40"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldmsdl7)](https://github.com/anuraghazra/github-readme-stats)
 
