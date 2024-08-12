@@ -11,6 +11,6 @@
 <span> **CONTACT** 
 <a href="https://instagram.com/nununuejil.dev">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/nununuejil"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/nununuejil.dev/"
         style="height : 30; margin-left : 10px; margin-right : 10px;"/>
 </a> </span>
