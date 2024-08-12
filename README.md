@@ -1,7 +1,7 @@
 ## 성장하고 있는 아기 개발자 .. 🍼👶🏻💻 .. 임미다 💗
 <br>
 
-<div>###📝 STUDY-ing ✨ 📚
+<div> 📝 ### STUDY-ing ✨ 📚
     <p>
         <img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
         <img width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
