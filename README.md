@@ -13,7 +13,7 @@
 
 ###  👉🏻 CONTACT 📱 📩 
 <a href="https://velog.io/@wldmsdl7/posts">
-    <img src="https://img.shields.io/badge/Velog-White?style=for-the-badge&logo=velog&logoColor=white" style= "height : 30; margin-left : 20px; margin-right : 20px;">
+  <img src="https://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog"/>
 </a>        
 <a href="https://www.instagram.com/nununuejil/">
     <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : 30; margin-left : 20px; margin-right : 20px;"/>
@@ -21,5 +21,5 @@
 <a href = "wldmsdl5835@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail"/>
 </a>
-<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+
 
