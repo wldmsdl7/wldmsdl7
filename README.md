@@ -19,7 +19,7 @@
     <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : 40; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <a href = "wldmsdl5835@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=Gmail" style = "height : 40"/>
+    <img src="https://img.shields.io/badge/Gmail?style=flat-square&logo=Gmail" style = "height : 40"/>
 </a>
 
 
