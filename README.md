@@ -13,13 +13,13 @@
 
 ###  👉🏻 CONTACT 📱 📩 
 <a href="https://velog.io/@wldmsdl7/posts">
-  <img src="https://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog" style = "height : 40"/>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" style = "height : 40"/>
 </a>        
 <a href="https://www.instagram.com/nununuejil/">
-    <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : 40; margin-left : 20px; margin-right : 20px;"/>
+    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" style="height : 40; margin-left : 20px; margin-right : 20px;"/>
 </a>
-<a href = "wldmsdl5835@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail" style = "height : 40"/>
+<a href = "mailto:wldmsdl5835@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" style = "height : 40"/>
 </a>
 
 
