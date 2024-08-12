@@ -13,9 +13,8 @@
 
 ###  👉🏻 CONTACT 📱 📩 
 <a href="https://velog.io/@wldmsdl7/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" style="height : 30; margin-left : 20px; margin-right : 20px; >
-</a>
-        
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" style= "height : 30; margin-left : 20px; margin-right : 20px;">
+</a>        
 <a href="https://www.instagram.com/nununuejil/">
     <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : 30; margin-left : 20px; margin-right : 20px;"/>
 </a>
