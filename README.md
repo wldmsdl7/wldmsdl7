@@ -9,12 +9,13 @@
     <img width="30" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
 </p>
 
+<br>
 
 ###  👉🏻 CONTACT 📱 📩 
 <a href="https://velog.io/@wldmsdl7/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" style="height : 30; margin-left : 20px; margin-right : 20px; >
 </a>
 <a href="https://www.instagram.com/nununuejil?igsh=MXh3bHR4MXkwenl5Mw%3D%3D&utm_source=qr">
-    <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : 30; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
