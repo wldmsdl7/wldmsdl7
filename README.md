@@ -1,8 +1,3 @@
-<h3 align = "center"> 성장하고 있는 아기 개발자 .. 🍼👶🏻💻 .. 임미다 .. </h3>
-<br>
-
-
-
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=wldmsdl7&theme=radical&show_icons=true"/></a>
 </p>
