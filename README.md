@@ -2,7 +2,7 @@
 
 ---
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&width=450" 
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jingni&show_icons=false&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&width=450&custom_title=Jingni's%20GitHub%20Status" 
     alt="Jingni's GitHub stats" 
     width="450"
   />
