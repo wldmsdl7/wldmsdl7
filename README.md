@@ -5,7 +5,7 @@
 <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=wldmsdl7&show_icons=false&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&width=450&custom_title=Jingni's%20GitHub%20Status"
      alt="Jingni's GitHub stats"
-     width="500" />
+     width="400" />
 
 <img align="right"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldmsdl7&layout=compact&theme=transparent&title_color=000000&text_color=000000&border_color=FFFFFF&width=450"
