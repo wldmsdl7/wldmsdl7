@@ -27,7 +27,9 @@
   - 홈인스펙터 예약 웹페이지 (Web)
   
 ***대회 / 수상***
-- **9th Ne(o)rdinary Hackathon 우수상** 수상 (2025.11.22~2025.11.23) -  `Node.js`  
+- **9th Ne(o)rdinary Hackathon 우수상** 수상 (2025.11.22~2025.11.23) -  `Node.js`
+- **9th UMC 장기해커톤 우수상** 수상 (2025.12.22) - `Web`
+- **4th 멋쟁이 사자처럼 최종 프로젝트 최우수상** 수상 (2026.01.14) - `Web` & `Spring Boot` (`Dev Lead`)
 
 <br>
 <br>
