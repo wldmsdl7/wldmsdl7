@@ -40,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,dart,c,java,python)](https://skillicons.dev)  
 
 <strong>Frontend</strong>  
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,tailwindcss,nextjs)](https://skillicons.dev)
 
 <strong>Backend</strong>  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring)](https://skillicons.dev)    
