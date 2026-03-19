@@ -19,7 +19,9 @@
 ***교육 / 챌린지***
 - **University Makeus Challenge (UMC) 8기** – `Node.js` 챌린저 수료 (2025.03 ~ 2025.08)  
 - **멋쟁이 사자처럼 클라우드 엔지니어링 4기 수강** – `Infra` (2025.07 ~ 2026.01)  
-- **University Makeus Challenge (UMC) 9기** – `Web` 챌린저 (2025.09 ~ )  
+- **University Makeus Challenge (UMC) 9기** – `Web` 챌린저 (2025.09 ~ )
+- **University Makeus Challenge (UMC) 10기** – `Node.js` 파트장 (2026.01 ~ )
+- **University Makeus Challenge (UMC) 10기** – `Spring Boot` 챌린저 (2026.03 ~ )  
 
 ***프로젝트 / 실무***
 - **[홈인스펙터] 사전점검 업체 어플 유지보수** (2024.12 ~ ) – `Flutter(Web/App)` + `Node.js`  
