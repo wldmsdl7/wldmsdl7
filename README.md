@@ -78,6 +78,15 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
+### Packman 
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/wldmsdl7/wldmsdl7@output/pacman-contribution-graph-dark.svg"
+    alt="Pacman contribution graph"
+    width="100%"
+  />
+</p>
+
 <!-- <h3>🏅 Baekjoon</h3>
     <p align="center">
       <a href="https://solved.ac/wldmsdl7">
@@ -90,11 +99,5 @@
 <!-- <h3> 🌱 GITHUB 3D </h3>
 
 ![](./profile-3d-contrib/profile-green-animate.svg) -->
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph.svg">
-</picture>
 
 
