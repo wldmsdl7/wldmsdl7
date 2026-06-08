@@ -91,8 +91,11 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
-<img
-  src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph-dark.svg?v=1"
-/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph.svg"
+    alt="pacman contribution graph"
+  />
+</p>
 
 
