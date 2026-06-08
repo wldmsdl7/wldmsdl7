@@ -93,7 +93,7 @@
 
 ### 🐾 JINGNI's GITANIMALS
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/wldmsdl7" width="60%"/>
+  <img src="https://render.gitanimals.org/farms/wldmsdl7" width="100%"/>
 </a>
 
 <!-- <h3>🏅 Baekjoon</h3>
