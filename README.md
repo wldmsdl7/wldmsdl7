@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=CFD4DBFF&height=140&section=header&text=Welcome%20to%20JINGNI's%20Github&fontSize=45&fontColor=6F8393FF" />
-
----
-
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/wldmsdl7" width="60%"/>
+</a>
+<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=CFD4DBFF&height=140&section=header&text=Welcome%20to%20JINGNI's%20Github&fontSize=45&fontColor=6F8393FF" /> -->
 <!-- <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=wldmsdl7&show_icons=false&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&width=450&custom_title=Jingni's%20GitHub%20Status"
      alt="Jingni's GitHub stats"
@@ -13,22 +13,21 @@
      width="400" /> -->
 
 <br clear="both"> <!-- 이미지 아래에서 새 줄 시작 -->
-<br clear="both"> 
 <h3> 🔎 EXPERIENCE </h3>
      
-***교육 / 챌린지***
+**교육 / 챌린지**
 - **University Makeus Challenge (UMC) 8기** – `Node.js` 챌린저 수료 (2025.03 ~ 2025.08)  
 - **멋쟁이 사자처럼 클라우드 엔지니어링 4기 수강** – `Infra` (2025.07 ~ 2026.01)  
 - **University Makeus Challenge (UMC) 9기** – `Web` 챌린저 (2025.09 ~ )
 - **University Makeus Challenge (UMC) 10기** – `Node.js` 파트장 (2026.01 ~ )
 - **University Makeus Challenge (UMC) 10기** – `Spring Boot` 챌린저 (2026.03 ~ )  
 
-***프로젝트 / 실무***
+**프로젝트 / 실무**
 - **[홈인스펙터] 사전점검 업체 어플 유지보수** (2024.12 ~ ) – `Flutter(Web/App)` + `Node.js`  
   - 홈인스펙터 사전점검 어플 (App)
   - 홈인스펙터 예약 웹페이지 (Web)
   
-***대회 / 수상***
+**대회 / 수상**
 - **9th Ne(o)rdinary Hackathon 우수상** 수상 (2025.11.22~2025.11.23) -  `Node.js`
 - **9th UMC 장기해커톤 우수상** 수상 (2025.12.22) - `Web`
 - **4th 멋쟁이 사자처럼 최종 프로젝트 최우수상** 수상 (2026.01.14) - `Web` & `Spring Boot` (`Dev Lead`)
@@ -36,7 +35,7 @@
 <br>
  <h3> 🌱 STACK </h3>
 
-### Language
+<!-- ### Language
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -46,7 +45,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+</p> -->
 
 ### Frontend
 <p>
@@ -63,7 +62,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
-### Infra
+### Infra/DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -79,9 +78,6 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-
----
-
 <!-- <h3>🏅 Baekjoon</h3>
     <p align="center">
       <a href="https://solved.ac/wldmsdl7">
@@ -90,14 +86,13 @@
       <img src="http://mazandi.herokuapp.com/api?handle=wldmsdl7&theme=cold" alt="mazandi profile"/>
     </p> -->
 
- <h3>🐶 MY PET !! 🐻‍❄️</h3>
- <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/wldmsdl7"/>
-</a>
-
 <br>
-<h3> 🌱 GITHUB 3D </h3>
+<!-- <h3> 🌱 GITHUB 3D </h3>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg) -->
+
+<img
+  src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph-dark.svg?v=1"
+/>
 
 
