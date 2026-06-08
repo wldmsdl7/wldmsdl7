@@ -1,6 +1,9 @@
- <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/wldmsdl7" width="60%"/>
-</a>
+## ☁️ About Me
+
+**풀스택 개발**을 경험한 뒤,  
+현재는 **인프라와 DevOps**를 공부하며  
+**안정적으로 운영되는 서비스를 만드는 과정**에 관심을 가지고 있습니다. 
+</p>
 <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=CFD4DBFF&height=140&section=header&text=Welcome%20to%20JINGNI's%20Github&fontSize=45&fontColor=6F8393FF" /> -->
 <!-- <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=wldmsdl7&show_icons=false&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&width=450&custom_title=Jingni's%20GitHub%20Status"
@@ -12,8 +15,7 @@
      alt="Top Langs"
      width="400" /> -->
 
-<br clear="both"> <!-- 이미지 아래에서 새 줄 시작 -->
-<h3> 🔎 EXPERIENCE </h3>
+## 🔎 EXPERIENCE
      
 **교육 / 챌린지**
 - **University Makeus Challenge (UMC) 8기** – `Node.js` 챌린저 수료 (2025.03 ~ 2025.08)  
@@ -33,7 +35,7 @@
 - **4th 멋쟁이 사자처럼 최종 프로젝트 최우수상** 수상 (2026.01.14) - `Web` & `Spring Boot` (`Dev Lead`)
 
 <br>
- <h3> 🌱 STACK </h3>
+ ## 🌱 STACK
 
 <!-- ### Language
 <p>
@@ -78,7 +80,9 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### Packman 
+<br>
+
+### 👾 JINGNI's PACMAN
 <p align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/wldmsdl7/wldmsdl7@output/pacman-contribution-graph-dark.svg"
@@ -86,6 +90,11 @@
     width="100%"
   />
 </p>
+
+### 🐾 JINGNI's GITANIMALS
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/wldmsdl7" width="60%"/>
+</a>
 
 <!-- <h3>🏅 Baekjoon</h3>
     <p align="center">
@@ -99,5 +108,7 @@
 <!-- <h3> 🌱 GITHUB 3D </h3>
 
 ![](./profile-3d-contrib/profile-green-animate.svg) -->
+
+
 
 
