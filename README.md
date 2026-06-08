@@ -34,25 +34,50 @@
 - **4th 멋쟁이 사자처럼 최종 프로젝트 최우수상** 수상 (2026.01.14) - `Web` & `Spring Boot` (`Dev Lead`)
 
 <br>
-<br>
- 
  <h3> 🌱 STACK </h3>
 
-<strong>Language</strong>  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,dart,c,java,python)](https://skillicons.dev)  
+### Language
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-<strong>Frontend</strong>  
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,tailwindcss,nextjs)](https://skillicons.dev)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-<strong>Backend</strong>  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring)](https://skillicons.dev)    
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
 
-<strong>Infra</strong>  
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,githubactions)](https://skillicons.dev)  
+### Infra
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-<strong>Database & Cache</strong>  
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,firebase,prisma)](https://skillicons.dev)  
-
+### Database & Cache
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
 
 ---
@@ -70,8 +95,6 @@
   <img src="https://render.gitanimals.org/farms/wldmsdl7"/>
 </a>
 
-
-<br>
 <br>
 <h3> 🌱 GITHUB 3D </h3>
 
