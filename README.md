@@ -93,7 +93,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-dark.svg"
+    src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-dark.svg?raw=true"
     alt="pacman contribution graph"
   />
 </p>
