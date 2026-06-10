@@ -83,7 +83,9 @@
 <br>
 
 ### 👾 JINGNI's PACMAN
-![Pacman](https://cdn.jsdelivr.net/gh/wldmsdl7/wldmsdl7@output/pacman-contribution-graph-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph-dark.svg?v=1" />
+</div>
 
 ### 🐾 JINGNI's GITANIMALS
 <a href="https://github.com/devxb/gitanimals">
