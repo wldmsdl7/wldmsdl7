@@ -1,8 +1,3 @@
-## ☁️ About Me
-
-**풀스택 개발**을 경험한 뒤,  
-현재는 **인프라와 DevOps**를 공부하며  
-**안정적으로 운영되는 서비스를 만드는 과정**에 관심을 가지고 있습니다. 
 </p>
 <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=CFD4DBFF&height=140&section=header&text=Welcome%20to%20JINGNI's%20Github&fontSize=45&fontColor=6F8393FF" /> -->
 <!-- <img align="left"
