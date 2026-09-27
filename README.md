@@ -1,36 +1,28 @@
-</p>
-<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=CFD4DBFF&height=140&section=header&text=Welcome%20to%20JINGNI's%20Github&fontSize=45&fontColor=6F8393FF" /> -->
-<!-- <img align="left"
-     src="https://github-readme-stats.vercel.app/api?username=wldmsdl7&show_icons=false&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&width=450&custom_title=Jingni's%20GitHub%20Status"
-     alt="Jingni's GitHub stats"
-     width="400" />
+<!--
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&color=CFD4DBFF&height=140&section=header&text=Welcome%20to%20JINGNI%27s%20Github&fontSize=45&fontColor=6F8393FF"
+  alt="Welcome to JINGNI's GitHub"
+/>
 
-<img align="right"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldmsdl7&layout=compact&theme=transparent&title_color=000000&text_color=000000&border_color=FFFFFF&width=450"
-     alt="Top Langs"
-     width="400" /> -->
+<img
+  align="left"
+  src="https://github-readme-stats.vercel.app/api?username=wldmsdl7&show_icons=false&theme=transparent&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&custom_title=Jingni%27s%20GitHub%20Status"
+  alt="Jingni's GitHub stats"
+  width="400"
+/>
 
-## 🔎 EXPERIENCE
-     
-**교육 / 챌린지**
-- **University Makeus Challenge (UMC) 8기** – `Node.js` 챌린저 수료 (2025.03 ~ 2025.08)  
-- **멋쟁이 사자처럼 클라우드 엔지니어링 4기 수강** – `Infra` (2025.07 ~ 2026.01)  
-- **University Makeus Challenge (UMC) 9기** – `Web` 챌린저 (2025.09 ~ )
-- **University Makeus Challenge (UMC) 10기** – `Node.js` 파트장 (2026.01 ~ )
-- **University Makeus Challenge (UMC) 10기** – `Spring Boot` 챌린저 (2026.03 ~ )  
+<img
+  align="right"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldmsdl7&layout=compact&theme=transparent&title_color=000000&text_color=000000&border_color=FFFFFF"
+  alt="Top Languages"
+  width="400"
+/>
+-->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/wldmsdl7" width="100%"/>
+</a>
 
-**프로젝트 / 실무**
-- **[홈인스펙터] 사전점검 업체 어플 유지보수** (2024.12 ~ ) – `Flutter(Web/App)` + `Node.js`  
-  - 홈인스펙터 사전점검 어플 (App)
-  - 홈인스펙터 예약 웹페이지 (Web)
-  
-**대회 / 수상**
-- **9th Ne(o)rdinary Hackathon 우수상** 수상 (2025.11.22~2025.11.23) -  `Node.js`
-- **9th UMC 장기해커톤 우수상** 수상 (2025.12.22) - `Web`
-- **4th 멋쟁이 사자처럼 최종 프로젝트 최우수상** 수상 (2026.01.14) - `Web` & `Spring Boot` (`Dev Lead`)
-
-<br>
- ## 🌱 STACK
+## 🌱 STACK
 
 <!-- ### Language
 <p>
@@ -77,15 +69,35 @@
 
 <br>
 
+## 🔎 EXPERIENCE
+
+**교육 / 대외활동**
+
+- **University Makeus Challenge (UMC) 8기** – `Node.js` 챌린저 수료 (2025.03 ~ 2025.08)
+- **멋쟁이 사자처럼 클라우드 엔지니어링 4기 수강** – `Infra` (2025.07 ~ 2026.01)
+- **University Makeus Challenge (UMC) 9기** – `Web` 챌린저 (2025.09 ~ 2026.02)
+- **University Makeus Challenge (UMC) 10기** – `Node.js` 파트장 (2026.01 ~ 2026.08)
+- **University Makeus Challenge (UMC) 10기** – `Spring Boot` 챌린저 (2026.03 ~ 2026.08)
+
+**프로젝트 / 실무**
+
+- **[홈인스펙터] 사전점검 업체 어플 유지보수** (2024.12 ~ ) – `Flutter(Web/App)` + `Node.js`
+  - 홈인스펙터 사전점검 어플 (App)
+  - 홈인스펙터 예약 웹페이지 (Web)
+
+**대회 / 수상**
+
+- **9th Ne(o)rdinary Hackathon 우수상** (2025.11.22 ~ 2025.11.23) – `Node.js`
+- **9th UMC 장기해커톤 우수상** (2025.12.22) – `Web`
+- **4th 멋쟁이 사자처럼 최종 프로젝트 최우수상** (2026.01.14) – `Web` & `Spring Boot` (`Dev Lead`)
+- **10th UMC DEMODAY 우수상 (2026.08.22) - `Spring Boot` **
+
+<br>
+
 ### 👾 JINGNI's PACMAN
 <div align="center">
   <img src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph-dark.svg?v=1" />
 </div>
-
-### 🐾 JINGNI's GITANIMALS
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/wldmsdl7" width="100%"/>
-</a>
 
 <!-- <h3>🏅 Baekjoon</h3>
     <p align="center">
