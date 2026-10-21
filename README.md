@@ -78,6 +78,7 @@
 - **University Makeus Challenge (UMC) 9기** – `Web` 챌린저 (2025.09 ~ 2026.02)
 - **University Makeus Challenge (UMC) 10기** – `Node.js` 파트장 (2026.01 ~ 2026.08)
 - **University Makeus Challenge (UMC) 10기** – `Spring Boot` 챌린저 (2026.03 ~ 2026.08)
+- **University Makeus Challenge (UMC) 11기** – 교육팀장 (2026.08 ~ 2027.02)
 
 **프로젝트 / 실무**
 
@@ -90,7 +91,7 @@
 - **9th Ne(o)rdinary Hackathon 우수상** (2025.11.22 ~ 2025.11.23) – `Node.js`
 - **9th UMC 장기해커톤 우수상** (2025.12.22) – `Web`
 - **4th 멋쟁이 사자처럼 최종 프로젝트 최우수상** (2026.01.14) – `Web` & `Spring Boot` (`Dev Lead`)
-- **10th UMC DEMODAY 우수상 (2026.08.22) - `Spring Boot` **
+- **10th UMC DEMODAY 우수상** (2026.08.22) - `Spring Boot`
 
 <br>
 
