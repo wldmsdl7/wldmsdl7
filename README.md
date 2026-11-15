@@ -97,7 +97,7 @@
 
 ### 👾 JINGNI's PACMAN
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph-dark.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/wldmsdl7/wldmsdl7/output/pacman-contribution-graph.svg?v=1" />
 </div>
 
 <!-- <h3>🏅 Baekjoon</h3>
